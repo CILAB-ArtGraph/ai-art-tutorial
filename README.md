@@ -8,4 +8,7 @@ This repository contains code and notebooks concerning the following research to
 
 * **Art & knowledge graphs**
 * **Artwork captioning**
+  * Tutorial <a target="_blank" href="https://colab.research.google.com/github/CILAB-ArtGraph/ai-art-tutorial/blob/main/captioning/vlp_fine_tuning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  * Demo <a target="_blank" href="https://colab.research.google.com/github/CILAB-ArtGraph/ai-art-tutorial/blob/main/captioning/demo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * **Artwork inpainting**
+  * Tutorial <a target="_blank" href="https://colab.research.google.com/github/CILAB-ArtGraph/ai-art-tutorial/blob/main/inpainting/in_painting_with_stable_diffusion_using_%F0%9F%A7%A8diffusers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
