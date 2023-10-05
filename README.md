@@ -12,3 +12,5 @@ This repository contains code and notebooks concerning the following research to
   * Demo <a target="_blank" href="https://colab.research.google.com/github/CILAB-ArtGraph/ai-art-tutorial/blob/main/captioning/demo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * **Artwork inpainting**
   * Tutorial <a target="_blank" href="https://colab.research.google.com/github/CILAB-ArtGraph/ai-art-tutorial/blob/main/inpainting/in_painting_with_stable_diffusion_using_%F0%9F%A7%A8diffusers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* **Artwork Attribute Recognition**
+  * Tutorial <a target="_blank" href="https://colab.research.google.com/github/gvessio/ai-art-tutorial/blob/main/attribute_recognition/tutorial_prediction.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
