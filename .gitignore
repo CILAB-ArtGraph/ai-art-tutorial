@@ -4,3 +4,7 @@
 *.pdf
 *.ipynb_checkpoints*
 .venv/
+
+attribute_recognition/data/
+*.zip
+
